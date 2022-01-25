@@ -6,7 +6,7 @@
           </v-card-title>
           <v-card-text>
             <p>
-              This is a simple Vue.js application.
+              Versão boa
             </p>
           </v-card-text>
         </v-card>
